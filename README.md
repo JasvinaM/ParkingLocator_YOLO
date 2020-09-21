@@ -10,7 +10,7 @@
 Please have a connection to Apache and MySQL before the program is started.
 
 
-Please prepare a "video" and "output" folder, where:
-1. video: store the video that contain the parking lot to be scanned
-2. output: the result of the scanned parking lot with the number of cars in the parking lot 
+Please prepare a "video" and "output" folder, where the folders are used to:
+1. video: Store the video that contain the parking lot to be scanned
+2. output: Display the result of the scanned parking lot with the number of cars in the parking lot 
 
