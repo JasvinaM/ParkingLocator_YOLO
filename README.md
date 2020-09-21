@@ -7,10 +7,9 @@
 
 
 # Setup
-Please have a connection to Apache and MySQL before the program is started.
-
-
-Please prepare a "video" and "output" folder, where the folders are used to:
-1. video: Store the video that contain the parking lot to be scanned
-2. output: Display the result of the scanned parking lot with the number of cars in the parking lot 
+1. Please have a connection to Apache and MySQL before the program is started.
+2. Please prepare a "yolov3.weights" file and place it in the "yolo-coco" folder
+3. Please prepare a "video" and "output" folder, where the folders are used to:
+  a. video: Store the video that contain the parking lot to be scanned
+  b. output: Display the result of the scanned parking lot with the number of cars in the parking lot 
 
